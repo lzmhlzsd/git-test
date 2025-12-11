@@ -1,6 +1,10 @@
 {
   "name": "y",
+<<<<<<< HEAD
   "version": "2.1.1",
+=======
+  "version": "2.1.0",
+>>>>>>> origin/master
   "description": "111111 222 333",
   "main": "index.js",
   "scripts": {
